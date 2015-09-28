@@ -67,7 +67,9 @@ public class MainActivity extends ActionBarActivity {
         });
     }
 
-    // Get the camera
+    /*
+        Mendapatkan kamera hardware
+     */
     private void getCamera() {
         if (camera == null) {
             try {
