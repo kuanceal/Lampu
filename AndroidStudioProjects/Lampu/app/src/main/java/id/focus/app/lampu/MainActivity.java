@@ -23,7 +23,6 @@ public class MainActivity extends ActionBarActivity {
     private boolean cekFlash;
     private Parameters params;
 
-    @SuppressWarnings("deprecation")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
